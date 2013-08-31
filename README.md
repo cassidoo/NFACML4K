@@ -11,3 +11,6 @@ ninja finger's &amp; c-town's magic library 4 kidz
 
 ##RoR
 
+##Infographics and charts
+
+* http://wtfviz.net/
