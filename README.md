@@ -3,9 +3,11 @@ NFACML4K
 
 ninja finger's &amp; c-town's magic library 4 kidz
 
-JavaScript libraries
+##JavaScript libraries
 
-Node.JS
+* http://tenxer.github.io/xcharts/ - Charts and stuff
 
-RoR
+##Node.JS
+
+##RoR
 
